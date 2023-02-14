@@ -4,7 +4,7 @@
 #
 aiofiles==0.7.0
 alabaster==0.7.12
-ansible==5.2.0
+ansible==7.0.0
 ansible-core==2.12.1
 Arpeggio==1.10.2
 arrow==1.2.1
